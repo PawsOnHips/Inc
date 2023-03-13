@@ -55,6 +55,7 @@ function access(app) {
 
 
     
+    app.nav.language = app.createLink('#language', 'Language');
     app.nav.community = app.createLink('#community', 'Community');
     app.nav.support = app.createLink('#support', 'Support');
     app.nav.apps = app.createLink('#apps', 'Apps');
