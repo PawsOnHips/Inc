@@ -31,6 +31,7 @@ async function options(app) {
         { id: 'ocean', content: 'Ocean' },
         { id: 'midnight', content: 'Midnight' },
         { id: 'simple', content: 'Simple' },
+        { id: 'absolute-territory', content: 'Absolute Territory' },
         { id: 'space', content: 'Space' },
         { id: 'morning', content: 'Morning' },
         { id: 'terminal', content: 'Terminal' },
