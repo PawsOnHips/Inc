@@ -12,6 +12,10 @@
         "answer": "Incognito, in its unmodified state from its <a href=\"https://github.com/amethystnetwork-dev/Incognito\">GitHub repo</a>, does not collect your data. However, users can host thier own instance of this website that could have been modified to collect user data"
     },
     {
+        "question": "Where can I get more links",
+        "answer": "Keep up with the <a href=\"https://github.com/pawsonhips/Inc\">@PawsOnHips Github</a>"
+    },
+    {
         "question": "Why is GeForce Now is responding with \"403 Access Denied\"",
         "answer": "At the moment, too many people are using GeForce Now on our servers. Try again later."
     }
