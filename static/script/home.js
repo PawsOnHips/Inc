@@ -57,6 +57,7 @@ function access(app) {
     
     app.nav.premium = app.createLink('#premium', 'Premium');
     app.nav.community = app.createLink('#community', 'Community');
+    app.nav.community2 = app.createLink('#community2', 'Community2');
     app.nav.support = app.createLink('#support', 'Support');
     app.nav.apps = app.createLink('#apps', 'Apps');
     app.nav.games = app.createLink('#gs', 'Games');
