@@ -225,7 +225,7 @@ app.on('#apps', apps);
 app.on('#settings', options);
 app.on('#support', support);
 app.on('#community', community);
-app.on('#premium', premium);
+
 
 app.init();
 
